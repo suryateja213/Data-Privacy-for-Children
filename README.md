@@ -30,7 +30,7 @@ To access and use the research paper:
 
 1. Clone this repository to your local machine
 2. Navigate to the repository directory
-3. Open the `research_paper.tex` file in your preferred LaTeX editor to view or modify the paper.
+3. Open the `research paper.tex` file in your preferred LaTeX editor to view or modify the paper.
 4. Compile the LaTeX document to generate the PDF output.
 
 
